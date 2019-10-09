@@ -6,8 +6,13 @@ html {
     margin: 0;
     font-family: MainFont;
   }
-
-  .header {
-    padding: 1%;
-    
+  .gallery {
+    margin: 5px;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
   }
