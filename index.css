@@ -1,12 +1,14 @@
+
+
 html {
     scroll-behavior: smooth;
   }
   
   body {
     margin-top: 25px;
-    font-family: MainFont;
+    font-family: 'Francois One', sans-serif;    
   }
- 
+    
   .col-md-4 {
     margin-bottom: 25px;
   }
@@ -16,3 +18,4 @@ html {
     margin-left: 5px;
     margin-right: 5px;
   }
+
