@@ -3,14 +3,16 @@ html {
   }
   
   body {
-    margin: 0;
+    margin-top: 25px;
     font-family: MainFont;
   }
-  .gallery {
-    margin: 15px;
+ 
+  .col-md-4 {
+    margin-bottom: 25px;
   }
-  
-  div.gallery img {
-    width: 100%;
-    height: auto;
+
+  .pictures {
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
   }
