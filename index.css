@@ -25,6 +25,17 @@ html {
     text-align: center;
   }
 
+  .col-4 {
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-left: -1%;
+  }
+
+  .col-5 {
+    margin-top: 20%;
+    margin-left: 10%;
+  }
+
   .centered {
     position: absolute;
     top: 50%;
