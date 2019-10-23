@@ -19,8 +19,7 @@ html {
     margin-right: 5px;
   }
 
-  .col-md-12 {
-    width: 50%;
+  .col {
     margin-top: 2%;
     position: relative;
     text-align: center;
