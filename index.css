@@ -26,16 +26,15 @@ html {
     height: 300;
   }
 
-  .col-lg {
-    margin-top: 10%;
-    
-    margin-right: 20%;
-  }
+  
 
   .text {
     margin-top: 40%;
-    margin-left: 50%;
-    margin-right: -70%;
+    margin-left: 20%;
+  }
+
+  .me {
+    margin-right: 20%;
   }
 
   .centered {
@@ -45,6 +44,21 @@ html {
     transform: translate(-50%, -50%);
     color: white;
     font-size: 200%;
+
+  }
+
+  @media only screen and (max-width: 600px) {
+    .text {
+      margin-top: 10%;
+      margin-right: 10%;
+      margin-left: 10%;
+    }
+  
+    .me {
+      margin-right: 10%;
+      margin-left: 10%;
+      margin-top: 7%;
+    }
 
   }
 
