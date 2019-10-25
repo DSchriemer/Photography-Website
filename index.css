@@ -29,12 +29,15 @@ html {
   
 
   .text {
-    margin-top: 40%;
-    margin-left: 20%;
+    margin-top: 35%;
+    margin-left: 40%;
+    text-align: initial;
+    
   }
 
   .me {
-    margin-right: 20%;
+    margin-right: 40%;
+    margin-top: 10%;
   }
 
   .centered {
