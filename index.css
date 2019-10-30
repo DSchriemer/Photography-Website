@@ -19,8 +19,8 @@ html {
     margin-right: 5px;
   }
 
-  .col {
-    margin-top: 2%;
+  .col-xl-4 {
+    margin-top: 1%;
     position: relative;
     text-align: center;
     height: 300;
@@ -37,6 +37,15 @@ html {
     margin-top: 10%;
   }
 
+  .overlay {
+    text-align: center;
+  }
+
+  .col {
+    text-align: center;
+    margin-bottom: 3%;
+  }
+
   .centered {
     position: absolute;
     top: 50%;
@@ -46,7 +55,13 @@ html {
     font-size: 200%;
   }
 
-  @media only screen and (max-width: 600px) {
+  .pictures {
+    margin-bottom: 1%;
+    margin-left: .5%;
+    margin-right: .5%;
+  }
+
+  @media only screen and (max-width: 1000px) {
     .text {
       margin-top: 10%;
       margin-right: 10%;
@@ -59,6 +74,26 @@ html {
       margin-top: 7%;
     }
 
+    .pictures {
+      margin-left: 5%;
+      margin-right: 5%;
+    }
+
+    .col-xl-4 {
+      margin-bottom: 7%;
+    }
+
+    body {
+      margin-top: 25px;
+      font-family: 'Mukta', sans-serif;    font-size: 200%;
+    }
+
+    .navbar-brand {
+      margin-top: 25px;
+      font-family: 'Mukta', sans-serif;    font-size: 150%;
+    }
+    
+    
   }
 /* Not a fan yet, need to update"
   .hovereffect {
