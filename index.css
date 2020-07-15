@@ -107,7 +107,27 @@ html {
     .navbar-brand {
       margin-top: 25px;
       font-family: 'Mukta', sans-serif;    font-size: 150%;
+      margin-left: 40px;
     }
+
+
+
+  .navbar-toggler-icon {
+    display: inline-block;
+    width: 2.5em;
+    height: 2.5em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+.navbar-light .navbar-toggler {
+  color: rgba(0,0,0,0);
+  border-color: rgba(0,0,0,0);
+}
     
     
   }
