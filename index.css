@@ -128,6 +128,12 @@ html {
   color: rgba(0,0,0,0);
   border-color: rgba(0,0,0,0);
 }
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
     
     
   }
