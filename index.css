@@ -43,6 +43,10 @@ html {
     font-size: 30px;
   }
 
+  .contact {
+    margin-top: 200px;
+  }
+
   .me {
     margin-right: 40%;
     margin-top: 10%;
@@ -101,6 +105,14 @@ html {
 
     }
 
+    .contact {
+      margin-top: 50px;
+    }
+
+    .aboutmetext {
+      margin-top: 50px;
+      font-size: 40px;
+    }
 
 
     .me {
