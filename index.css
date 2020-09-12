@@ -76,6 +76,12 @@ html {
     margin-top: 100px;
     align-content: center;
   }
+  .aboutmetext {
+    margin-top: 100px;
+    align-content:center;
+    vertical-align: middle;
+    font-size: 30px;
+  }
 
   .portrait {
     width:100%;
