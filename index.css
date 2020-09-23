@@ -122,6 +122,10 @@ html {
       margin-bottom: 15%;
     }
 
+    .navbar-nav {
+    margin-right: 50px;
+}
+
 
 
     .col-xl-4 {
